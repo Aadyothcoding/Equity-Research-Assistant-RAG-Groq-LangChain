@@ -1,0 +1,34 @@
+# Python related
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# dotenv environment variables file
+.env
+
+# Chroma vector DB folder
+chroma_db/
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# macOS system files
+.DS_Store
+.env
